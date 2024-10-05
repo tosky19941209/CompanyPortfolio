@@ -18,6 +18,31 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 11. [Acknowledgements](#acknowledgements)
 12. [Contact](#contact)
 
+<table>
+  <tr>
+    <td align = "center">    
+      <img src="./readmeAsset/Untitled2.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td align = "center">    
+      <img src="./readmeAsset/Untitled3.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td align = "center">    
+      <img src="./readmeAsset/Untitled.png"/>
+    </td>
+  </tr>
+  <tr>
+    <td align = "center">    
+      <img src="./readmeAsset/Untitled1.png"/>
+    </td>
+  </tr>
+
+
+</table>
+
 ## Features
 - Simple and clean design
 - Built with Nuxt 3
